@@ -1,2 +1,1 @@
-# marcusklaas.github.io
-marcus personal blog
+Hello. This is my personal website.
